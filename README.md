@@ -1,2 +1,2 @@
 # resonance-guild
-Resonance guild webpage.
+Resonance Guild webpage.
